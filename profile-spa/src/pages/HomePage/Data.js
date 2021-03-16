@@ -20,7 +20,7 @@ export const homeObjTwo = {
   imgStart: "start",
   lightTopLine: false,
   lightTextDesc: false,
-  buttonLabel: "Get Started",
+  buttonLabel: "",
   lightText: false,
   headLine: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
   description:
@@ -36,7 +36,7 @@ export const homeObjThree = {
   imgStart: "",
   lightTopLine: true,
   lightTextDesc: true,
-  buttonLabel: "Get Started",
+  buttonLabel: "",
   lightText: true,
   headLine: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
   description:
@@ -52,7 +52,7 @@ export const homeObjFour = {
   imgStart: "start",
   lightTopLine: true,
   lightTextDesc: true,
-  buttonLabel: "Get Started",
+  buttonLabel: "Find Out More",
   lightText: true,
   headLine: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
   description:
